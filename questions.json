@@ -1,0 +1,17 @@
+{
+  "pin": "1234",
+  "questions": [
+    {
+      "q": "What is my favourite food?",
+      "answers": ["biriyani", "biryani"]
+    },
+    {
+      "q": "What nickname do my friends call me?",
+      "answers": ["gopu", "kuttan"]
+    },
+    {
+      "q": "What is my favourite movie?",
+      "answers": ["spadikam", "manichitrathazhu"]
+    }
+  ]
+}
