@@ -33,7 +33,7 @@ def load_owner_encodings(face_dir="face"):
                     owner_faces.append(hist)
     return owner_faces
 
-def check_for_owner(owner_encodings, threshold=0.90):
+def check_for_owner(owner_encodings, threshold=0.85):
     if not owner_encodings:
         print("[!] No valid owner face found in face/ directory.")
         return False
