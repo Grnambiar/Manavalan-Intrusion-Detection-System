@@ -81,14 +81,16 @@ python windows_listener.py
 
 #### Screenshots
 
-
-*Initial Lockdown: Bouncing Manavalan sticker, live animated Matrix floor grid, and the initial Malayalam dialogue popup demanding the PIN.*
-
-
-*Wrong PIN Escaped State: Triggering police sirens, red alert banners, and accelerated bouncing sticker physics.*
+<img width="1920" height="1080" alt="Screenshot From 2026-09-04 08-21-14" src="https://github.com/user-attachments/assets/3ad8bcbb-382e-4fd9-abf4-3ad31406e3f2" />
+Initial Lockdown: Bouncing Manavalan sticker, live animated Matrix floor grid, and the initial Malayalam dialogue popup demanding the PIN.
 
 
-*Friendship Decryption Matrix: Successfully entering the PIN unlocks the secondary personal trivia question validation screen.*
+<img width="1920" height="1080" alt="Screenshot From 2026-09-04 08-21-32" src="https://github.com/user-attachments/assets/7e038683-4798-43e1-b0eb-ef2920576d65" />
+Wrong PIN Escaped State: Triggering police sirens, red alert banners, and accelerated bouncing sticker physics.
+
+
+<img width="1920" height="1080" alt="Screenshot From 2026-09-04 08-21-46" src="https://github.com/user-attachments/assets/bfffa543-089c-4cb8-8de7-0fe3067e1310" />
+Friendship Decryption Matrix: Successfully entering the PIN unlocks the secondary personal trivia question validation screen.
 
 #### Diagrams
 
